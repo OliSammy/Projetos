@@ -1,2 +1,2 @@
-# codigosC-C-
-Treinando programação em C e C++
+#Projetos feitos por mim
+Treinando programação na faculdade
